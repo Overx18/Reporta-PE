@@ -1,2 +1,2 @@
 # Reporta-PE
-Repositorio del Sistema de gestión de denuncias penales
+Repositorio de la Red social de denuncias
