@@ -8,5 +8,4 @@ Integrantes:
 - Chaco, José Luis
 - Cueva Mantura, Alvaro Bertilo
 - Lipa Palacios, Renzo A. 
-- Montes Ramos, Christian 
 - Velarde H., Bryan A. 
